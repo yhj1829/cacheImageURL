@@ -1,0 +1,8 @@
+target 'Demo1' do
+
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'XHWebImageAutoSize'
+pod 'MJExtension'
+
+end
